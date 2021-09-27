@@ -1,6 +1,3 @@
-## Reference repo:
-https://github.com/c17hawke/dvc-ML-demo-AIOps
-
 # STEPS:
 ## STEP 01: Create a empty remote repository
 
@@ -136,3 +133,5 @@ git add .
 git commit -m "stage 01 added"
 git push origin main
 ```
+#### Reference repo:
+https://github.com/c17hawke/dvc-ML-demo-AIOps
