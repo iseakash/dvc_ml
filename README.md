@@ -124,7 +124,7 @@ stages:
 
 ## STEP 11: run the dvc repro command
 ```bash
-dvc repo
+dvc repro
 ```
 
 ## STEP 12: push the changes to remote repository
